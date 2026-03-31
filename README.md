@@ -1,5 +1,7 @@
 # Pace
 
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/98bdca0e-272b-4506-8634-0fb91eeda0da" />
+
 Pace is a computer-vision fitness prototype that uses **OpenCV**, **MediaPipe Pose**, and a webcam feed to detect and track bodyweight exercises in real time.
 
 The repository explores how pose estimation can be used to recognize workout movements such as **squats, push-ups, jumping jacks, planks, curl-ups, lunges, and running in place** through lightweight rule-based logic.
