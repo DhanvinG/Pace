@@ -89,7 +89,6 @@ Some exercises are tracked more reliably than others, and the project has not ye
 - Replace simple y-threshold heuristics with more robust angle-based biomechanics
 - Add per-user calibration
 - Improve repetition accuracy and reduce false positives
-- Add a `requirements.txt` file and demo visuals
 
 ## Why I Built This
 
